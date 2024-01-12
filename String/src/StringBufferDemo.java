@@ -37,5 +37,8 @@ public class StringBufferDemo {
         System.out.print(sb.reverse());
 
         System.out.println(sb.capacity());
+                System.out.println(sb.capacity());
+                System.out.println(sb.capacity());
+                System.out.println(sb.capacity());
     }
 }
